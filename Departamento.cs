@@ -59,7 +59,7 @@ namespace FuncionarioAbstrato
             Console.WriteLine("Funcionários e Dependentes: ");
             foreach(Funcionario fun in vetFuncionario)
             {
-                    Console.WriteLine($"Nome: {fun.Nome} | Quantidade de Dependentes: {fun.CalcularTotalDependente()}");
+                    Console.WriteLine($"Nome: {fun.Nome} | Número de Dependentes: {fun.CalcularTotalDependente()}");
             }
         }
     }

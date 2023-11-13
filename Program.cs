@@ -315,10 +315,7 @@ class Program
                             foreach (Departamento dep in vetDepartamento)
                             {
                                 Console.WriteLine($"Departamento: {dep.Nome}");
-                                foreach (Funcionario fun in dep.vetFuncionario)
-                                {
-                                    Console.WriteLine($"Funcionário: {fun.Nome} \t Qtde Dependentes: {fun.CalcularTotalDependente()}");
-                                }
+                                dep.MostrarQtdeDependentesFuncionario();
                             }
                             Console.WriteLine("Pressione qualquer tecla para retornar...");
                             Console.ReadKey();
