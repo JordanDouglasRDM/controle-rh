@@ -1,0 +1,28 @@
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.exe
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.deps.json
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.runtimeconfig.json
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.dll
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.pdb
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.AssemblyInfoInputs.cache
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.AssemblyInfo.cs
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.dll
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\refint\FuncionarioAbstrato.dll
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.pdb
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.genruntimeconfig.cache
+C:\Users\Jordan\OneDrive - Fatec Centro Paula Souza\FATEC\4° Termo\POO\exercices\FuncionarioAbstrato\obj\Debug\net7.0\ref\FuncionarioAbstrato.dll
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.exe
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.deps.json
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.runtimeconfig.json
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.dll
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\bin\Debug\net7.0\FuncionarioAbstrato.pdb
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.AssemblyInfoInputs.cache
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.AssemblyInfo.cs
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.csproj.CoreCompileInputs.cache
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.dll
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\refint\FuncionarioAbstrato.dll
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.pdb
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\FuncionarioAbstrato.genruntimeconfig.cache
+C:\meusprojetos\POO - C#\FuncionarioAbstrato\obj\Debug\net7.0\ref\FuncionarioAbstrato.dll
